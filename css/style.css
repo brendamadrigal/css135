@@ -1,0 +1,70 @@
+/* 
+Name: Brenda Madrigal
+Date: 01/22/2025
+Class: CS-133J
+Week 02 / Lab 02
+*/
+
+@media only screen and (max-width: 1920px) {
+body {
+    background-color: #F2EADF;
+    color:#3C5946
+}
+/* nav bar */
+ul {
+    margin: 10px auto;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    background-color: #BFB39B; 
+}
+li {
+    list-style: none;
+    margin: 0 20px; /* add spacing between items */
+    }
+
+li a {
+    color: whitesmoke;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 15px;
+}
+
+#nav {
+        justify-content: center;
+        align-items: center;
+}
+
+/* image formatting */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; /* Adjust percentage to fit layout needs */
+    max-width: 20%x; /* Prevents images from being too large on big screens */
+    border-radius: 10%;
+}
+
+/* content formatting */
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    padding: 15px;
+    font-family: arial
+}
+
+/* center horizontally */
+form {
+    text-align: center;
+    margin: 0 auto; 
+}
