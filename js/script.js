@@ -1,8 +1,8 @@
 /*
 Name: Brenda Madrigal
-Date: 01/22/2025
-CS 133J
-Week 02 / Lab 02 
+Date: 01/07/2026
+CS 135
+Week 01
 Description: This script updates the greeting and image dynamically.
 */
 
